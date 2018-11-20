@@ -1,1 +1,3 @@
 "Name : Khaqan Chaudhary" 
+"Email : khaqannadeem@gmail.com"
+Faculty of Information
